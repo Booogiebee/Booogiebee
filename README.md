@@ -38,6 +38,7 @@ I also have cloud certifications (AWS and AZURE) in view.
 
    ---
 - 👯 I’m looking to collaborate on innovative tech projects.
+
    ---
   ### 📫 How to reach me: 
 - Linkedin: www.linkedin.com/in/boluwatife-abe-88b639227
