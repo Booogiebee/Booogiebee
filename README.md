@@ -48,6 +48,11 @@
 I also have cloud certifications (AWS and AZURE) in view.
 
    ---
+
+  - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+
+  ---
+  
 - 👯 I’m looking to collaborate on innovative tech projects.
 
    ---
