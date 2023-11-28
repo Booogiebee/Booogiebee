@@ -17,7 +17,18 @@
 - Scripting: Python, Bash
 - Monitoring & Logging: Prometheus, Grafana, ELK Stack
 
-    ---
+  ---
+
+### 🔧 Key Skills:
+
+- Designing and deploying scalable, secure, and cost-effective cloud architectures.
+- Implementing Infrastructure as Code (IaC) for efficient and reproducible deployments.
+- Containerizing applications for seamless orchestration and scaling.
+- Automating CI/CD pipelines to accelerate development and deployment cycles.
+- Ensuring high availability, reliability, and performance of cloud-based systems.
+- Collaborating with cross-functional teams to drive DevOps best practices
+
+   ---
 ### Basic understanding of:
 
 - HTML
@@ -43,5 +54,9 @@ I also have cloud certifications (AWS and AZURE) in view.
   ### 📫 How to reach me: 
 - Linkedin: www.linkedin.com/in/boluwatife-abe-88b639227
 - Email: agrelav4k@gmail.com
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussion on cloud technologies. Let's build the future of cloud together!
 
 
